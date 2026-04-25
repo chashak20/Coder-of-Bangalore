@@ -1,4 +1,4 @@
-# Coder-of-Banglore 🏙️
+# Coder-of-Bangalore 🏙️
 
 ## Overview
 A Python-based data pipeline to parse and analyze 
